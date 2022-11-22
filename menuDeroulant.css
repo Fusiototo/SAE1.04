@@ -1,12 +1,14 @@
 .menuDeroulantNav{
     width:100%;
     padding:0px;
-    background-color:brown;
+    background-color:dimgrey;
     top:0px;
+    font-style: oblique;
 }
 
 .menuDeroulantNav > ul li:hover .deroulant{
     display:block;
+    background-color:grey;
 }
 
 .menuDeroulantUl{
@@ -62,10 +64,10 @@
 
 .deroulant a:hover{
     border-bottom:none;
-    background-color:RGBa(200,200,200,0.1);
+    background-color:black;
 }
 
 .indication > a::after{
-    content:">";
+    content:"+";
     font-size:12px;
 }
