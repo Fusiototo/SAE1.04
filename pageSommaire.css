@@ -1,0 +1,25 @@
+.main{
+
+    text-align:center;
+    margin-top:80px;
+    margin-left:10%;
+    margin-right:10%;
+    width:75%;
+    height:100%;
+}
+
+.titre{
+    text-align:left;
+    color:dodgerblue;
+    width:100%;
+    margin-left:15%;
+}
+
+.titre1{
+    margin-top:50px;
+}
+
+.point{
+    text-align:left;
+    margin-left:20%;
+}
