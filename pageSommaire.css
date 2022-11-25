@@ -23,3 +23,15 @@
     text-align:left;
     margin-left:20%;
 }
+
+.textesanspoint{
+    width:50%;
+    padding-left:22%;
+    text-align:left;
+}
+
+.citation{
+    color:dodgerblue;
+    font-size:150%;
+    text-align:center;
+}
