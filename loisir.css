@@ -1,0 +1,41 @@
+.margeHaut{
+    margin-top:80px;
+}
+
+.texteEtImage{
+    float:left;
+    width:50%;
+}
+
+.titreLoisir{
+    text-align:center;
+    font-size:500%;
+}
+
+.sousTitreLoisir{
+    text-align:center;
+    font-size:250%;
+}
+
+.sousSousTitreLoisir{
+    text-align:center;
+    font-size:150%;
+}
+
+.textSansImage{
+    text-align:center;
+}
+
+.stats1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.stats2{
+    width:33%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align:center;
+}

@@ -1,0 +1,18 @@
+.texteEtImage{
+    float:left;
+    width:50%;
+}
+
+.titrePagePro{
+    text-align:center;
+    font-size:300%;
+}
+
+.sousTitrePagePro{
+    text-align:center;
+    font-size:150%;
+}
+
+.margeHaut{
+    margin-top:80px;
+}
